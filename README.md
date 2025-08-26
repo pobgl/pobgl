@@ -1,4 +1,4 @@
-### Hi there 👋 I'm ##Gleb.
+### Hi there 👋 I'm Gleb.
 
 <!-- [Gleb](https://pobgl.github.io/rsschool-cv/cv) -->
 
@@ -13,7 +13,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pobgl&exclude_repo=basic-js,basic-js-ds,VueSolitaire,core-js-101,tasks,morse-decoder,brackets,reverse-int,towel-sort,human-readable-number,typical-arrays-problems,test_browsers_and_IDEs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
+ <!-- 
 **pobgl/pobgl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -27,3 +27,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+-->

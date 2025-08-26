@@ -1,5 +1,5 @@
-### Hi there 👋 I'm [Gleb](https://pobgl.github.io/rsschool-cv/cv).
-<!--
+### Hi there 👋 I'm [Gleb]. <!-- (https://pobgl.github.io/rsschool-cv/cv).
+
 #### I'm web developer from Saratov.
 
 #### My stack:
